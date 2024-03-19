@@ -1,0 +1,19 @@
+h1 {
+    color: tomato;
+}
+
+img {
+    width: 300px;
+    display: flex;
+    flex-direction:Column;
+    align-items: center;
+    justify-content: center;
+}
+
+body{
+width: 100vw;
+display: flex;
+flex-direction:Column;
+align-items: center;
+justify-content: center;
+}
